@@ -1,0 +1,2 @@
+print()
+abc=sc.textFile("/user/ram/abc.txt",2)
